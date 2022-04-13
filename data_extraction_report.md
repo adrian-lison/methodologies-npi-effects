@@ -4867,7 +4867,7 @@ The following section provides a detailed report of all information extracted fr
 |----|----|
 |**Study information** | | 
 | Author|Gallaway MS, Rigler J, Robinson S, Herrick K, Livar E, Komatsu KK, Brady S, Cunico J, Christ CM |
-| Title|Trends in COVID-19 Incidence after Implementation of Mitigation Measures \textemdash Arizona, January 22- August 7, 2020 |
+| Title|Trends in COVID-19 Incidence after Implementation of Mitigation Measures - Arizona, January 22- August 7, 2020 |
 | Year|2020 |
 | Journal|Morbidity and Mortality Weekly Report |
 | DOI|10.15585/mmwr.mm6940e3 |
@@ -10040,7 +10040,7 @@ The following section provides a detailed report of all information extracted fr
 |----|----|
 |**Study information** | | 
 | Author|Ng Y, Li Z, Chua YX, Chaw WL, Zhao Z, Er B, Pung R, Chiew CJ, Lye DC, Heng D, Lee VJ |
-| Title|Evaluation of the Effectiveness of Surveillance and Containment Measures for the First 100 Patients with COVID-19 in Singapore \textemdash January 2- February 29, 2020 |
+| Title|Evaluation of the Effectiveness of Surveillance and Containment Measures for the First 100 Patients with COVID-19 in Singapore - January 2- February 29, 2020 |
 | Year|2020 |
 | Journal|Morbidity and Mortality Weekly Report |
 | DOI|10.15585/mmwr.mm6911e1 |
@@ -14135,7 +14135,7 @@ The following section provides a detailed report of all information extracted fr
 |----|----|
 |**Study information** | | 
 | Author|Van Dyke ME, Rogers TM, Pevzner E, Satterwhite CL, Shah HB, Beckman WJ, Ahmed F, Hunt DC, Rule J |
-| Title|Trends in County-Level COVID-19 Incidence in Counties with and without a Mask Mandate \textemdash Kansas, June 1- August 23, 2020 |
+| Title|Trends in County-Level COVID-19 Incidence in Counties with and without a Mask Mandate - Kansas, June 1- August 23, 2020 |
 | Year|2020 |
 | Journal|Morbidity and Mortality Weekly Report |
 | DOI|10.15585/mmwr.mm6947e2 |
@@ -14568,7 +14568,7 @@ The following section provides a detailed report of all information extracted fr
 |----|----|
 |**Study information** | | 
 | Author|Wang T, Wu Y, Lau JY, Yu Y, Liu L, Li J, Zhang K, Tong W, Jiang B |
-| Title|A Four-Compartment Model for the COVID-19 Infection \textemdash Implications on Infection Kinetics, Control Measures, and Lockdown Exit Strategies |
+| Title|A Four-Compartment Model for the COVID-19 Infection - Implications on Infection Kinetics, Control Measures, and Lockdown Exit Strategies |
 | Year|2020 |
 | Journal|Precision Clinical Medicine |
 | DOI|10.1093/pcmedi/pbaa018 |
@@ -16185,7 +16185,7 @@ The following section provides a detailed report of all information extracted fr
 |----|----|
 |**Study information** | | 
 | Author|Zhang L, Yang H, Wang K, Zhan Y, Bian L |
-| Title|Measuring Imported Case Risk of COVID-19 from Inbound International Flights \textemdash A Case Study on China |
+| Title|Measuring Imported Case Risk of COVID-19 from Inbound International Flights - A Case Study on China |
 | Year|2020 |
 | Journal|Journal of Air Transport Management |
 | DOI|10.1016/j.jairtraman.2020.101918 |
