@@ -1,3 +1,9 @@
+# Data extraction report
+
+The following section provides a detailed report of all information extracted from the studies in our review sample. The corresponding items are described in the data extraction manual of this review. The extracted information is presented for each individual analysis, where some studies contain multiple analyses (referred to as Analysis 1, 2, etc.). Of note, some studies did not only assess the effects of non-pharmaceutical interventions on mobility, but also the effects of changes in mobility on population-level epidemiological outcomes. We also extracted information on such complementary analyses that use “mobility as an exposure” and present them along with their main analyses of intervention effects in the following.
+
+**Note: When viewing online on github, a table of contents with filtering functionality can be accessed in the top left corner.**
+
 ## Abdalla et al. 2021
 ### Analysis 1
 
