@@ -24,4 +24,6 @@ The data is available
 ## Citation
 If using this data in your work, please consider citing it:
 
-	Banholzer N, Lison A, Özcelik D, Stadler T, Feuerriegel S, Vach W. The methodologies to assess the effects of non-pharmaceutical interventions during COVID-19: a systematic review. medrXiv. 2022.
+	Banholzer N, Lison A, Özcelik D, Stadler T, Feuerriegel S, Vach W.
+	The methodologies to assess the effects of non-pharmaceutical interventions
+	during COVID-19: a systematic review. medrXiv. 2022.
