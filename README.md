@@ -22,8 +22,9 @@ The data is available
 - as [Markdown](data_extraction_report.md) for direct view
 
 ## Citation
-If using this data in your work, please consider citing it:
+If using this data in your work, please consider citing the corresponding [paper](https://doi.org/10.1101/2022.04.14.22273858):
 
 	Banholzer N, Lison A, Özcelik D, Stadler T, Feuerriegel S, Vach W.
 	The methodologies to assess the effects of non-pharmaceutical interventions
 	during COVID-19: a systematic review. medrXiv. 2022.
+	DOI: 10.1101/2022.04.14.22273858
