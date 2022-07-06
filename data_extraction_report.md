@@ -1,9 +1,3 @@
-# Data extraction report
-
-The following section provides a detailed report of all information extracted from the studies in our review sample. The corresponding items are described in the data extraction manual of this review. The extracted information is presented for each individual analysis, where some studies contain multiple analyses (referred to as Analysis 1, 2, etc.). Of note, some studies did not only assess the effects of non-pharmaceutical interventions on mobility, but also the effects of changes in mobility on population-level epidemiological outcomes. We also extracted information on such complementary analyses that use “mobility as an exposure” and present them along with their main analyses of intervention effects in the following.
-
-**Note: When viewing online on github, a table of contents with filtering functionality can be accessed in the top left corner.**
-
 ## Abdalla et al. 2021
 ### Analysis 1
 
@@ -48,9 +42,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -101,9 +96,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of change points with intervention |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|change points: mobility |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|change points: mobility |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -154,9 +150,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -208,9 +205,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: time spent in various locations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|same analysis with (sub)population(s) excluded, model specification varied, different coding of interventions used |
 | Subgroup assessment|none |
@@ -262,9 +260,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental single-population transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|infections |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|infections |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -316,9 +315,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental metapopulation transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|imported cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|imported cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -370,9 +370,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental single-population transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases, hospitalizations, ICU hospitalizations, recovered, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases, hospitalizations, ICU hospitalizations, recovered, deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -423,9 +424,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number, growth rate, growth rate: hospitalizations, growth rate: ICU hospitalizations, growth rate: recovered, growth rate: deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number, growth rate, growth rate: hospitalizations, growth rate: ICU hospitalizations, growth rate: recovered, growth rate: deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -444,8 +446,8 @@ The following section provides a detailed report of all information extracted fr
 | Year|2020 |
 | Journal|Problems of Virology |
 | DOI|10.36233/0507-4088-2020-65-4-203-211 |
-| Date received|-- could not be evaluated -- |
-| Date accepted|-- could not be evaluated -- |
+| Date received|2020-07-14 |
+| Date accepted|2020-08-04 |
 | | |
 |**Study setting** | | 
 | Number of populations included|single |
@@ -477,9 +479,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|growth rate, cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|growth rate, cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -531,9 +534,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, transmission rate, hospitalization rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, transmission rate, hospitalization rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -585,9 +589,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|serial interval |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|serial interval |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (age, gender), epidemiological indicators (infection setting, isolation delay) |
@@ -639,9 +644,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -661,7 +667,7 @@ The following section provides a detailed report of all information extracted fr
 | Journal|Sustainability |
 | DOI|10.3390/su12093870 |
 | Date received|2020-04-14 |
-| Date accepted|2020-05-15 |
+| Date accepted|2020-05-05 |
 | | |
 |**Study setting** | | 
 | Number of populations included|single |
@@ -693,9 +699,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: various measures of within-city mobility for motor vehicles \& public transport \& walking |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: various measures of within-city mobility for motor vehicles \& public transport \& walking |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -747,9 +754,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -802,9 +810,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|contact rate |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|contact rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|contact rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -856,9 +865,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -910,9 +920,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: time spent in retail and recreation |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: time spent in retail and recreation |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -963,9 +974,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental single-population transmission model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1017,9 +1029,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (other: generalized additive model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|number of days until flattening of the curve |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|number of days until flattening of the curve |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1071,9 +1084,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of populations |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|peak reached or not |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|peak reached or not |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|geographic areas (regions) |
@@ -1125,9 +1139,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|epidemiological indicators (pre-intervention epidemic trend), socioeconomic indicators (population density, age, health care occupation), public health response (subject to other measures) |
@@ -1179,9 +1194,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|mobility: smoothed mobility ratio |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|mobility: smoothed mobility ratio |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1232,9 +1248,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model, correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate ratio |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate ratio |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (mobility aggregated by state) |
 | Subgroup assessment|none |
@@ -1286,9 +1303,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|test positivity rate: RSV \& influenza |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|test positivity rate: RSV \& influenza |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1339,9 +1357,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|test positivity rate: influenza |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|test positivity rate: influenza |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1393,9 +1412,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -1447,9 +1467,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1501,9 +1522,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|synthetic controls |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, mobility: transit station mobility index, mobility: subway validations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, mobility: transit station mobility index, mobility: subway validations |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|same analysis with (sub)population(s) excluded |
 | Subgroup assessment|socioeconomic indicators (income) |
@@ -1555,9 +1577,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied, model specification varied, same analysis with (sub)population(s) excluded |
 | Subgroup assessment|geographic areas (regions), socioeconomic indicators (population density, age, health index: global health security index) |
@@ -1609,9 +1632,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (time series model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: median daily distance |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: median daily distance |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (age, gender) |
@@ -1662,9 +1686,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases, reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1716,9 +1741,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of populations |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1771,9 +1797,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|reproduction number |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (number of confirmed cases adjusted using time-varying ascertainment rate estimated by study), different coding of interventions used (specific NPIs left out), model specification varied, start or end date of study period varied, epidemiological parameters varied, same analysis with (sub)population(s) excluded |
 | Subgroup assessment|none |
@@ -1825,9 +1852,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|mobility: air travel, virus migration |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|mobility: air travel, virus migration |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1878,9 +1906,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (semi-mechanistic Bayesian transmission model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -1932,9 +1961,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (other: spatial regression model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|case-fatality rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|case-fatality rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (crude cause-specific death rate instead of CFR) |
 | Subgroup assessment|public health response (testing policy), socioeconomic indicators (income) |
@@ -1986,9 +2016,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate, growth rate: deaths, mobility: share of population sheltering in home |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate, growth rate: deaths, mobility: share of population sheltering in home |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|public health response (subject to other measures) |
@@ -2040,9 +2071,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|test positivity rate: anti-N IgG seroprevalence |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|test positivity rate: anti-N IgG seroprevalence |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2094,9 +2126,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (other: feature importance from machine learning model with lockdown period as predictor) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|case-fatality rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|case-fatality rate |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2149,9 +2182,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2203,9 +2237,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, recovered, severe cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, recovered, severe cases, deaths |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2257,9 +2292,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2311,9 +2347,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2365,9 +2402,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|lifting social distancing index |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|lifting social distancing index |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2420,9 +2458,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2474,9 +2513,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of populations |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|time to peak, maximum percentage reduction relative to peak after peak |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|time to peak, maximum percentage reduction relative to peak after peak |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2528,9 +2568,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases: influenza, emergency room visits: influenza-like illness, test positivity rate: influenza |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases: influenza, emergency room visits: influenza-like illness, test positivity rate: influenza |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2582,9 +2623,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2604,7 +2646,7 @@ The following section provides a detailed report of all information extracted fr
 | Journal|GeoHealth |
 | DOI|10.1029/2020gh000332 |
 | Date received|2020-10-08 |
-| Date accepted|2020-12-18 |
+| Date accepted|2020-11-18 |
 | | |
 |**Study setting** | | 
 | Number of populations included|multiple |
@@ -2636,9 +2678,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2657,7 +2700,7 @@ The following section provides a detailed report of all information extracted fr
 | Journal|GeoHealth |
 | DOI|10.1029/2020gh000332 |
 | Date received|2020-10-08 |
-| Date accepted|2020-12-18 |
+| Date accepted|2020-11-18 |
 | | |
 |**Study setting** | | 
 | Number of populations included|multiple |
@@ -2689,9 +2732,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (other: weighted regression) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2742,9 +2786,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2796,9 +2841,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of populations |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -2850,9 +2896,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate, growth rate:deaths, mobility: time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate, growth rate:deaths, mobility: time spent in various locations |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different coding of interventions used, same analysis with (sub)population(s) excluded, model specification varied |
 | Subgroup assessment|none |
@@ -2903,9 +2950,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate, growth rate: deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate, growth rate: deaths |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -2957,9 +3005,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3011,9 +3060,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number, probability of transmission upon contact |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number, probability of transmission upon contact |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (age) |
@@ -3065,9 +3115,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of populations |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3119,9 +3170,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|number of contacts, face mask usage, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|number of contacts, face mask usage, reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (age, gender, household size) |
@@ -3174,9 +3226,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|susceptible decay, transmission rate, quarantine rate |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|susceptible decay rate, transmission rate, quarantine rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|susceptible decay rate, transmission rate, quarantine rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3228,9 +3281,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|infections |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|infections |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3282,9 +3336,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different coding of interventions used (gathering bans of 50 instead of 500, closure of restaurants AND gyms, not OR), same analysis with (sub)population(s) excluded, model specification varied |
 | Subgroup assessment|none |
@@ -3336,9 +3391,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number: SARS-CoV-2, surrogate disease: influenza, surrogate disease: influenza in hospitalized children |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number: SARS-CoV-2, surrogate disease: influenza, surrogate disease: influenza in hospitalized children |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3389,9 +3445,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|face mask usage, avoidance of public places |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|face mask usage, avoidance of public places |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3444,9 +3501,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|susceptible decay |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, quarantined |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, quarantined |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3498,9 +3556,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|hospitalizations: acute bronchiolitis in infants |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|hospitalizations: acute bronchiolitis in infants |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3552,9 +3611,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|case-fatality rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|case-fatality rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (income) |
@@ -3607,9 +3667,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|contact rate |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|contact rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|contact rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3662,9 +3723,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|quarantine rate |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|quarantine rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|quarantine rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3716,9 +3778,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3769,9 +3832,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|growth rate: deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|growth rate: deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3824,9 +3888,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied, model specification varied |
 | Subgroup assessment|none |
@@ -3878,9 +3943,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|autoregressive parameters |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|autoregressive parameters |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3932,9 +3998,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number, doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number, doubling time |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -3986,9 +4053,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|different coding of interventions used (model fit on different time periods with NPIs) |
 | Subgroup assessment|none |
@@ -4040,9 +4108,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental single-population transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|ICU beds occupation |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|ICU beds occupation |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -4094,9 +4163,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental single-population transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4148,9 +4218,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4201,9 +4272,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|time until reproduction number below 1 |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|time until reproduction number below 1 |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4255,9 +4327,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4309,9 +4382,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4363,9 +4437,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases, reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4417,9 +4492,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|contacts with infected individuals, fever symptoms |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|contacts with infected individuals, fever symptoms |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|epidemiological indicators (infection setting) |
@@ -4471,9 +4547,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|mobility: travel activities |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|mobility: travel activities |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4525,9 +4602,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -4580,9 +4658,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|reproduction number |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4635,9 +4714,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|reproduction number |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|start or end date of study period varied, same analysis with (sub)population(s) excluded, model specification varied, epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -4689,9 +4769,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|order parameter eigenvalue |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|order parameter eigenvalue |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4743,9 +4824,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|hospitalizations: acute bronchiolitis in infants |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|hospitalizations: acute bronchiolitis in infants |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4797,9 +4879,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|synthetic controls |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths, mobility: shelter-in-place index |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths, mobility: shelter-in-place index |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|same analysis with (sub)population(s) excluded, model specification varied |
 | Subgroup assessment|none |
@@ -4850,9 +4933,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|same analysis with (sub)population(s) excluded, model specification varied |
 | Subgroup assessment|none |
@@ -4904,9 +4988,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -4958,9 +5043,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|doubling time |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -5011,9 +5097,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: travel distance \& home dwell time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: travel distance \& home dwell time |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5066,9 +5153,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5121,9 +5209,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5175,9 +5264,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|growth rate, growth rate: deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|growth rate, growth rate: deaths |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5229,9 +5319,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental single-population transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|active cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|active cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5282,9 +5373,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|contact rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|contact rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5336,9 +5428,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (other: generalized additive model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|hospitalizations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|hospitalizations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5390,9 +5483,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5444,9 +5538,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (individual-based transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -5498,9 +5593,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5551,9 +5647,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|mobility: time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|mobility: time spent in various locations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5605,9 +5702,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, infections |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, infections |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (smoothing of outliers), epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -5659,9 +5757,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (other: several machine learning models of different complexity) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different coding of interventions used (validation with other NPI datasets, implementation date varied) |
 | Subgroup assessment|none |
@@ -5713,9 +5812,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental single-population transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5767,9 +5867,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number, contact rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number, contact rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5821,9 +5922,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5874,9 +5976,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|mobility |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|mobility |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -5928,9 +6031,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: fraction of mobile devices leaving home and mean number of locations visited per device |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: fraction of mobile devices leaving home and mean number of locations visited per device |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different coding of interventions used (policy effects considered with lags and leads), model specification varied, same analysis with (sub)population(s) excluded |
 | Subgroup assessment|none |
@@ -5982,9 +6086,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate, growth rate: active cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate, growth rate: active cases |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (bias related to underreporting of cases estimated), model specification varied, epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -6036,9 +6141,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|mobility: index based on distances |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|mobility: index based on distances |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -6090,9 +6196,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|hospitalizations, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|hospitalizations, deaths |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -6143,9 +6250,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|synthetic controls |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|hospitalizations, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|hospitalizations, deaths |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -6196,9 +6304,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|hospitalizations, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|hospitalizations, deaths |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -6250,9 +6359,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (use cases and deaths instead of hospitalizations as raw different or modified outcome used), epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -6304,9 +6414,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|incidence rate ratio |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|incidence rate ratio |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied, model specification varied, same analysis with (sub)population(s) excluded |
 | Subgroup assessment|none |
@@ -6358,9 +6469,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of populations |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, doubling time |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -6412,9 +6524,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|number of contacts, adherence to NPIs, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|number of contacts, adherence to NPIs, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|socioeconomic indicators (age, gender, household size) |
@@ -6466,9 +6579,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases, hospitalizations, ICU hospitalizations, deaths, time from symptom onset to isolation, isolation interval |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases, hospitalizations, ICU hospitalizations, deaths, time from symptom onset to isolation, isolation interval |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|same analysis with (sub)population(s) excluded |
 | Subgroup assessment|socioeconomic indicators (age, gender, income, health care occupation, ethnicity), epidemiological indicators (source of infection) |
@@ -6520,9 +6634,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|mobility: percentage difference from baseline number of trips and trip lengths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|mobility: percentage difference from baseline number of trips and trip lengths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|different or modified outcome used (different mobility data used) |
 | Subgroup assessment|socioeconomic indicators (population density) |
@@ -6573,9 +6688,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: percentage difference from baseline number of trips |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: percentage difference from baseline number of trips |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -6627,9 +6743,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -6681,9 +6798,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: migration from Wuhan |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: migration from Wuhan |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -6735,9 +6853,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -6789,9 +6908,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|synthetic controls |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|different or modified outcome used (new cases used instead of cumulative cases), model specification varied |
 | Subgroup assessment|none |
@@ -6844,9 +6964,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|reproduction number |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -6897,9 +7018,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of change points with intervention |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|change points: reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|change points: reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -6951,9 +7073,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied, same analysis with (sub)population(s) excluded |
 | Subgroup assessment|none |
@@ -7005,9 +7128,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number, infections |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number, infections |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7058,9 +7182,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|synthetic controls |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7112,9 +7237,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|active cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|active cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -7166,9 +7292,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7221,9 +7348,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -7276,9 +7404,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|other (behavior change rate: transition of susceptibles to compartment with lower transmission rate) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|behavior change rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|behavior change rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7330,9 +7459,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7384,9 +7514,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -7437,9 +7568,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -7490,9 +7622,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7544,9 +7677,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|mobility: migration from Wuhan |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|mobility: migration from Wuhan |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7597,9 +7731,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7650,9 +7785,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7704,9 +7840,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7758,9 +7895,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (different confirmed case data), epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -7812,9 +7950,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|epidemiological indicators (pre-intervention epidemic trend), socioeconomic indicators (population density, age, health care occupation), public health response (subject to other measures) |
@@ -7866,9 +8005,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: mobility and engagement index |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: mobility and engagement index |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7920,9 +8060,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|doubling time |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -7973,9 +8114,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|correlation between cases and mobility |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|correlation between cases and mobility |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8027,9 +8169,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: percentage staying home \& distance traveled \& percentage out-of-county trips |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: percentage staying home \& distance traveled \& percentage out-of-county trips |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (income) |
@@ -8081,9 +8224,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, reproduction number: influenza |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, reproduction number: influenza |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8135,9 +8279,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of change points with intervention |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|change points: reproduction number, change points: mobility |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|change points: reproduction number, change points: mobility |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8188,9 +8333,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of change points with intervention |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8241,9 +8387,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8295,9 +8442,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8349,9 +8497,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental single-population transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8403,9 +8552,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number, transmission rate, migration rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number, transmission rate, migration rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8456,9 +8606,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental metapopulation transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8510,9 +8661,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number ratio |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number ratio |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different coding of interventions used (mean effective reproduction number of the last day considered instead of effective reproduction number of the last day), same analysis with (sub)population(s) excluded |
 | Subgroup assessment|none |
@@ -8564,9 +8716,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number, cases, mobility: time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number, cases, mobility: time spent in various locations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8617,9 +8770,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (semi-mechanistic Bayesian transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -8671,9 +8825,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases: dengue |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases: dengue |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -8725,9 +8880,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -8778,9 +8934,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8832,9 +8989,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of populations |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|contact rate: initial contact rate, cases, recovered, time until 1000 cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|contact rate: initial contact rate, cases, recovered, time until 1000 cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8886,9 +9044,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|mobility: population outflow from Wuhan |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|mobility: population outflow from Wuhan |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8939,9 +9098,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|other |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -8993,9 +9153,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -9047,9 +9208,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|doubling time |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -9100,9 +9262,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|doubling time |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -9155,9 +9318,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|susceptible decay |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -9209,9 +9373,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|secondary cases per index case, proportion of index cases with secondary cases, time between symptom onset and testing, number of contacts |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|secondary cases per index case, proportion of index cases with secondary cases, time between symptom onset and testing, number of contacts |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|public health response (subject to other measures: contact tracing and quarantine measures) |
@@ -9264,9 +9429,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|reproduction number |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (only deaths used), model specification varied, epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -9318,9 +9484,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|infections |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|infections |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|different or modified outcome used (undetected cases adjusted for), epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -9373,9 +9540,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|contact matrix |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, contact rate, contact matrix |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, contact rate, contact matrix |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|socioeconomic indicators (age), epidemiological indicators (infection setting) |
@@ -9427,9 +9595,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate, mobility: average reduction in time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate, mobility: average reduction in time spent in various locations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|start or end date of study period varied |
 | Subgroup assessment|none |
@@ -9481,9 +9650,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|other (differential equation-based state-space model to estimate effects of interventions on mobility) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: distance traveled \& visitation to key sites \& log number of interpersonal encounters |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: distance traveled \& visitation to key sites \& log number of interpersonal encounters |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -9535,9 +9705,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: time spent in various locations |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|geographic areas (regions) |
@@ -9589,9 +9760,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|time to peak: cases/deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|time to peak: cases/deaths |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -9644,9 +9816,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|reproduction number |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied, epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -9698,9 +9871,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|growth rate, doubling time, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|growth rate, doubling time, reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -9752,9 +9926,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|different or modified outcome used (use effective reproduction number based on cases by date of confirmation and by date of onset), epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -9807,9 +9982,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|reproduction number |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -9861,9 +10037,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -9915,9 +10092,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -9969,9 +10147,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10023,9 +10202,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of populations |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (age), public health response (response time) |
@@ -10077,9 +10257,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|time from symptom onset to isolation |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|time from symptom onset to isolation |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|epidemiological indicators (source of infection) |
@@ -10131,9 +10312,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10184,9 +10366,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10238,9 +10421,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: number of people in workplace or consumption areas |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: number of people in workplace or consumption areas |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10292,9 +10476,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission efficiency |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission efficiency |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10346,9 +10531,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10400,9 +10586,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10454,9 +10641,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|mobility: social distancing index |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|mobility: social distancing index |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10508,9 +10696,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases, reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (age, gender, health care occupation), epidemiological indicators (disease severity) |
@@ -10562,9 +10751,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number, transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number, transmission rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10616,9 +10806,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied, epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -10670,9 +10861,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (time series model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths, hospitalizations, ICU hospitalizations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths, hospitalizations, ICU hospitalizations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10724,9 +10916,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10778,9 +10971,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: number of steps made |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: number of steps made |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -10832,9 +11026,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|deaths |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|socioeconomic indicators (age, population density), epidemiological indicators (pre-intervention epidemic trend) |
@@ -10886,9 +11081,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases, reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|different or modified outcome used (percentage of imported cases varied) |
 | Subgroup assessment|none |
@@ -10940,9 +11136,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: number of trips |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: number of trips |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (age) |
@@ -10993,9 +11190,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (time series model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: number of trips |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: number of trips |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (age) |
@@ -11046,9 +11244,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|mobility: number of mobility connections between locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|mobility: number of mobility connections between locations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11100,9 +11299,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11154,9 +11354,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -11207,9 +11408,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -11261,9 +11463,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -11315,9 +11518,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (other: structural equation model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: time spent in various locations |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11368,9 +11572,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|explicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11423,9 +11628,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11477,9 +11683,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11531,9 +11738,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: number of trips by mode \& time spent in various locations \& intention |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: number of trips by mode \& time spent in various locations \& intention |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11585,9 +11793,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11639,9 +11848,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11694,9 +11904,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -11748,9 +11959,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number, doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number, doubling time |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11802,9 +12014,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: mobility index of number of movements |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: mobility index of number of movements |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11856,9 +12069,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11910,9 +12124,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -11964,9 +12179,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate, growth rate: recovered, growth rate: deaths, doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate, growth rate: recovered, growth rate: deaths, doubling time |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12017,9 +12233,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12071,9 +12288,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12125,9 +12343,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12179,9 +12398,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: time spent in various locations |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12232,9 +12452,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied, epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -12286,9 +12507,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|emergency room visits |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|emergency room visits |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (age, gender) |
@@ -12340,9 +12562,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|mobility: time spent in locations for retail and recreation |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|mobility: time spent in locations for retail and recreation |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12394,9 +12617,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|probability of transmission upon contact |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|probability of transmission upon contact |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|probability of transmission upon contact |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12448,9 +12672,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths, hospitalizations, recovered |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths, hospitalizations, recovered |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|geographic areas (regions) |
@@ -12502,9 +12727,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12555,9 +12781,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (individual-based transmission model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12609,9 +12836,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|other (hazard-based survival model for countries' risk of case importation) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|countries' risk of case importation |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|countries' risk of case importation |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12663,9 +12891,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number, doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number, doubling time |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12717,9 +12946,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate, growth rate: deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate, growth rate: deaths |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied, epidemiological parameters varied |
 | Subgroup assessment|none |
@@ -12771,9 +13001,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12825,9 +13056,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12879,9 +13111,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12933,9 +13166,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases, reproduction number, mobility: time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases, reproduction number, mobility: time spent in various locations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -12987,9 +13221,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13041,9 +13276,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|growth rate, growth rate: hospitalizations, growth rate: test positivity rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|growth rate, growth rate: hospitalizations, growth rate: test positivity rate |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|public health response (response time) |
@@ -13095,9 +13331,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: time spent at home \& maximum distance from place of residence \& steps \& maximum number of nearby devices |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: time spent at home \& maximum distance from place of residence \& steps \& maximum number of nearby devices |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13149,9 +13386,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|ICU hospitalizations, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|ICU hospitalizations, deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13203,9 +13441,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13256,9 +13495,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|incidence rate ratio |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|incidence rate ratio |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13310,9 +13550,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13364,9 +13605,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of change points with intervention |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|change points: mobility |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|change points: mobility |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13417,9 +13659,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13471,9 +13714,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13525,9 +13769,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases, reproduction number, mobility: number of trips by mode and and time spent in various locations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases, reproduction number, mobility: number of trips by mode and and time spent in various locations |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13579,9 +13824,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13632,9 +13878,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13686,9 +13933,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|synthetic controls |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13740,9 +13988,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases, reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13794,9 +14043,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (cases and deaths used as raw different or modified outcome used, estimates of effective reproduction number used from other paper), different coding of interventions used (days since relaxation of SIPO used as primary explanatory variable), model specification varied |
 | Subgroup assessment|none |
@@ -13848,9 +14098,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number, doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number, doubling time |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13902,9 +14153,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|other (non-standard, semi-mechanistic transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|tests, cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|tests, cases, deaths |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -13957,9 +14209,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14011,9 +14264,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of points in time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|public health response (response time) |
@@ -14065,9 +14319,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14118,9 +14373,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases, deaths |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases, deaths |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14172,9 +14428,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different coding of interventions used (different NPI coding, i.e., nonmandated counties that included cities mandating masks coded as mandated counties) |
 | Subgroup assessment|public health response (subject to other measures: with and without other NPIs) |
@@ -14226,9 +14483,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: mobility index based on number of trips planned compared to a reference period |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: mobility index based on number of trips planned compared to a reference period |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (different mobility data used) |
 | Subgroup assessment|none |
@@ -14280,9 +14538,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of change points with intervention |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|change points: cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|change points: cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14334,9 +14593,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (exponential growth model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|ICU hospitalizations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|ICU hospitalizations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14388,9 +14648,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|doubling time |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|doubling time |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (deaths used instead of confirmed cases), model specification varied |
 | Subgroup assessment|none |
@@ -14442,9 +14703,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|socioeconomic indicators (nationality) |
@@ -14496,9 +14758,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14551,9 +14814,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, transmission rate |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, transmission rate |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14606,9 +14870,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|contact rate, probability of transmission upon contact |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|contact rate, probability of transmission upon contact |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|contact rate, probability of transmission upon contact |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14660,9 +14925,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, infectious period length, overall infectiousness |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, infectious period length, overall infectiousness |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14713,9 +14979,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number, infectious period length, overall infectiousness |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number, infectious period length, overall infectiousness |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14767,9 +15034,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (varying levels of underreporting accounted for when computing effective reproduction number) |
 | Subgroup assessment|none |
@@ -14822,9 +15090,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|transmission rate |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|transmission rate, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|transmission rate, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14876,9 +15145,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|other (extrapolate probability and risk of travels outside of China to predict exported cases in absence of intervention) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|exported cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|exported cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -14931,9 +15201,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|other (growth rate of new cases) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|growth rate: cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|growth rate: cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|same analysis with (sub)population(s) excluded, model specification varied |
 | Subgroup assessment|epidemiological indicators (pre-intervention epidemic trend) |
@@ -14985,9 +15256,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|comparison of change points with intervention |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|change points: infections, growth rate: infections, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|change points: infections, growth rate: infections, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15038,9 +15310,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|infections, growth rate: infections, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|infections, growth rate: infections, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15092,9 +15365,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: time spent in public transport stations |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: time spent in public transport stations |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15145,9 +15419,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15199,9 +15474,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|geographic areas (regions), socioeconomic indicators (income), epidemiological indicators (pre-intervention epidemic trend) |
@@ -15254,9 +15530,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|reproduction number |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|geographic areas (regions) |
@@ -15307,9 +15584,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|mitigation factor |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|mitigation factor |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15361,9 +15639,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15414,9 +15693,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|other (extrapolation of cases by forward application of renewal equation used by Thompson et al.) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15468,9 +15748,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15522,9 +15803,10 @@ The following section provides a detailed report of all information extracted fr
 | Latent variable functionally linked to intervention|contact rate, quarantine rate |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|contact rate, quarantine rate, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|contact rate, quarantine rate, reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15576,9 +15858,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15630,9 +15913,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15684,9 +15968,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mobility: area and frequency of travel |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mobility: area and frequency of travel |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15737,9 +16022,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15790,9 +16076,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (correlation) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15844,9 +16131,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|transmission rate, reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|transmission rate, reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15898,9 +16186,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -15952,9 +16241,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|mortality rate ratio: mortality rate relative to mortality rate on day 1 in a country |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|mortality rate ratio: mortality rate relative to mortality rate on day 1 in a country |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|different or modified outcome used (per capita deaths used rather than absolute deaths), start or end date of study period varied, same analysis with (sub)population(s) excluded |
 | Subgroup assessment|none |
@@ -16006,9 +16296,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|quantification of change in outcome values |
-| Measure of effect|hospitalizations: influenza |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|quantification of change in outcome values |
+| Measure of effectiveness|hospitalizations: influenza |
+| Interpretation of results|associative |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -16060,9 +16351,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -16114,9 +16406,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|non-mechanistic model (generalized linear model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -16168,9 +16461,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|correlation between mobility and infection rate between provinces |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|correlation between mobility and infection rate between provinces |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|-- not applicable -- |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -16222,9 +16516,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|other (simulation of risk index using mobility before intervention) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|imported case risk index |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|imported case risk index |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -16276,9 +16571,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental metapopulation transmission model) |
 | Code availability|publicly available |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|infections |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|infections |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|yes |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -16330,9 +16626,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (comparison of time periods) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
@@ -16384,9 +16681,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|mechanistic model (compartmental single-population transmission model) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|comparison of outcome values |
-| Measure of effect|cases |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|comparison of outcome values |
+| Measure of effectiveness|cases |
+| Interpretation of results|implicitly causal |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|model specification varied |
 | Subgroup assessment|none |
@@ -16438,9 +16736,10 @@ The following section provides a detailed report of all information extracted fr
 | Method|description of change over time (description of time course) |
 | Code availability|none |
 | | |
-|**Effect assessment** | | 
-| Reporting of intervention effect|qualitative statement |
-| Measure of effect|reproduction number |
+|**Effectiveness assessment** | | 
+| Reporting of intervention effectiveness|qualitative statement |
+| Measure of effectiveness|reproduction number |
+| Interpretation of results|associative |
 | Reporting of uncertainty|no |
 | Sensitivity analysis|none |
 | Subgroup assessment|none |
