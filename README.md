@@ -21,6 +21,9 @@ The data is available
 - as [CSV](data_extraction_report.csv) for download
 - as [Markdown](data_extraction_report.md) for direct view
 
+We also provide a list of 163 studies that were excluded during full text evaluation because they did not meet the eligibility criteria, together with the reason for exclusion, available
+- as [CSV](excluded_studies.csv) for download
+
 ## Citation
 If using this data in your work, please consider citing the corresponding [paper](https://doi.org/10.1007/s10654-022-00908-y):
 
